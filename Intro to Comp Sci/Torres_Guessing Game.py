@@ -1,3 +1,8 @@
+"""
+Guessing Game
+Description: This program is a simple guessing game with three different difficulties
+Author: Pedro Torres
+"""
 from random import *
 
 # Guessing Game 2.0

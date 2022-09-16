@@ -1,4 +1,8 @@
-# John Ressurreicao Pedro Torres
+"""
+Restaurant Program
+Description: This mini program simulates ordering at a restaurant
+Author: Pedro Torres
+"""
 from datetime import datetime
 from random import *
 

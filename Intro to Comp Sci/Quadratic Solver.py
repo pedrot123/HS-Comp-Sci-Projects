@@ -1,3 +1,8 @@
+"""
+Quadratic Solver
+Description: This program solves quadratic equations for any quadratic without decimals
+Author: Pedro Torres
+"""
 import math
 
 
